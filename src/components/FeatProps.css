@@ -1,0 +1,17 @@
+.FeatPropsDesc{
+    width: 390px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 35px;
+    color: white;
+    margin-top: 20px;
+}
+.FeatPropsName{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 28px;
+    color: #FFFFFF;
+    margin-top: 29px;
+}

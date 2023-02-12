@@ -1,0 +1,17 @@
+p, h3{
+    color: rgb(255, 255, 255);
+}
+.siteName{
+    margin-top: -265px;
+}
+/* button{
+    background: url('./img/Ellipse.png');
+    width: 200px;
+} */
+.carousel-indicators [data-bs-target]{
+    width: 10px;
+   height: 10px;
+   border-radius: 100%;
+   background-color: rgb(228, 197, 63);
+   margin-right: 20px;
+ }

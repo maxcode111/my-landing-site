@@ -1,0 +1,52 @@
+.SlidePropsWrapp{
+    width: 1500px;
+    height: 450px;
+    /* background-color: rgb(227, 155, 155); */
+    display: flex;
+}
+.slidePropsPic{
+    width: 400px;
+    height: 300px;
+    border-radius: 10px;
+}
+.slidePropsName{
+    font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 28px;
+margin-bottom: 41px;
+color: #FFFFFF;
+}
+.upperSlideProps{
+    display: flex;
+}
+.timeDiv , .costDiv{
+    margin-left: 16px;
+}
+.timeProps , .costProps{
+    margin-top: -15px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+.timeText ,.costText{
+    font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 21px;
+color: #FFFFFF;
+}
+.lowerSlideProps{
+    display: flex;
+    margin-top: 50px;
+}
+.rewievProps{
+    width: 600px;
+    font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+color: #FFFFFF;
+}

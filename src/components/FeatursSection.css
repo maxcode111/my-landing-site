@@ -1,0 +1,26 @@
+.FeatursWrapp{
+    height: 970px;
+    background-color: rgb(0, 0, 0);
+}
+.FeatDiv{
+    width: 1500px;
+    margin: 0 auto;
+}
+.workWithMe{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 42px;
+    color: #FFFFFF;
+    padding-top: 64px;
+    margin-bottom: 84px;
+}
+.upperFeats{
+    display: flex;
+    gap : 166px;
+    margin-bottom: 100px;
+}
+.lowerFeats{
+    display: flex;
+    gap : 166px;
+}

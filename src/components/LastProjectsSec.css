@@ -1,0 +1,21 @@
+.LastPWrapp{
+    height: 800px;
+    background: linear-gradient(0.01deg, rgb(15, 16, 29) 0.04%, rgb(0, 0, 0) 95.44%);
+}
+.LastWDiv{
+    width: 1500px;
+    margin: 0 auto;
+}
+.worksText{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 42px;
+    color: #FFFFFF;
+    padding-top: 125px;
+    margin-bottom: 85px;
+}
+.CarouselDiv{
+    width: 1500px;
+
+}

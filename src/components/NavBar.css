@@ -1,0 +1,47 @@
+.logoPic{
+    width: 200px;
+    height: 60px;
+    /* margin-top: 50px; */
+    /* margin-left: 100px; */
+}
+.navUl{
+    display: flex;
+    list-style: none;
+    gap : 100px;
+    /* margin-top: 70px; */
+    margin-left: 450px;
+    padding-top: 15px;
+}
+/* .navUl a{
+    color: rgb(191, 255, 63);
+    text-decoration: none;
+} */
+.navUl p{
+    color: rgb(249, 209, 63);
+    cursor: pointer;
+}
+.roadlink{
+    color: rgb(249, 209, 63);
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 20px;
+    margin-top: -5px;
+}
+.navUl li :hover{
+    color: rgb(213, 238, 162);
+    cursor: pointer;
+}
+.NavWrapp{
+    display: flex;
+    width: 1500px;
+    /* background-color: #fff; */
+    margin: 0 auto;
+    padding-top: 50px;
+}
+#nav-dropdown-dark-example{
+    color: rgb(249, 209, 63);
+    margin-top: -8px;
+}
+.inst, .face, .twit , .git{
+    width: 100px;
+}

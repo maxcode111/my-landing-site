@@ -1,0 +1,49 @@
+.TopInfoWrapp{
+    width: 1500px;
+    /* background-color: rgb(20, 14, 14); */
+    margin: 200px auto;
+    display: flex;
+}
+.descName{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 34px;
+    line-height: 28px;
+    color: #FFBB01;
+}
+.myName{
+    font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 59px;
+color: #FFFFFF;
+margin-top: 20px;
+}
+.myDesc{
+    width: 520px;
+    height: 86px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    color: #FFFFFF;
+    margin-top: 20px;
+}
+.consultButton{
+    height: 70px;
+    width: 350px;
+    background: linear-gradient(180deg, #FDDE76 0%, #FFBB01 100%);
+    box-shadow: 0px 4px 0px #B68500;
+    border-radius: 5px 5px 10px 10px;
+    border: none;
+    margin-top: 50px;
+    font-weight: 500;
+}
+.MagaPic{
+    width: 530px;
+    border-radius: 50%;
+    height: 500px;
+    border: 10px solid white;
+    margin-left: 300px;
+    margin-top: -60px;
+}

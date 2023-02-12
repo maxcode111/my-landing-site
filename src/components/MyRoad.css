@@ -1,0 +1,21 @@
+.MyRoadWrapp{
+    /* height: 800px; */
+    background: linear-gradient(0.01deg, #0b0e17 0.01%, rgb(0, 0, 0) 95.44%);
+}
+.MyRoadContentDiv{
+    width: 1500px;
+    /* background-color: #dfb3b3; */
+    margin: 0 auto;
+    /* height: 800px; */
+}
+.myroad{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 42px;
+    color: #FFFFFF;
+    margin-bottom: 85px;
+}
+.forRoad{
+    padding-bottom: 200px;
+}
